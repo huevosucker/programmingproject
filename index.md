@@ -14,16 +14,16 @@ OOP solution for a collision based graphics space shooter game.
 ### calculator
 OOP solution for a collision based graphics space shooter game. 
 
-![calculator](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/spacegame.png?raw=true)
+![calculator]()
 
-[Source Code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/SpaceGame%202.zip)
+[Source Code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/Calculator.zip)
 
 ### Screensaver
 OOP solution for a collision based graphics space shooter game. 
 
-![Screensaver](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/spacegame.png?raw=true)
+![Screensaver]()
 
-[Source Code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/SpaceGame%202.zip)
+[Source Code]()
 
 
 ## Python Projects
