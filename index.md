@@ -30,5 +30,6 @@ OOP solution for a collision based graphics space shooter game.
 
 [source code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/number%20gussing%20ganme)
 
-
-## Python Projects
+### 99 bottles of beer of beer on the wall
+![99 bottles](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/Screen%20Shot%202022-05-23%20at%208.24.40%20AM.png)
+[source code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/99%20bottles)
