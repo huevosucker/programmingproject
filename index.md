@@ -18,6 +18,11 @@ OOP solution for a collision based graphics space shooter game.
 
 [Source Code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/Calculator.zip)
 
+### Snake Game
+OOP solution for a collision based graphics space shooter game. 
+![snek game](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/Screen%20Shot%202022-05-23%20at%207.53.25%20AM.png)
+[source code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/txt/snake)
+
 
 
 ## Python Projects
