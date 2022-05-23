@@ -1,0 +1,23 @@
+import random
+test=random.randint(0,100)
+#Create random number
+print("Welcome to the guessing game! Guess a number between 1 and 100:")
+goal=input("Enter input:")
+#Prompt user to guess number
+guesses=0
+while (goal != test):
+  if (float(goal) > test):
+    print("You guessed", goal,"That number is too high, try again:")
+    #If not tell user if number is too high/low
+    guesses+=1
+    goal=input("Enter input:")
+  elif (float(goal) < test):
+    print("You guessed", goal,"Unforfortunately that number is too low, try again:")
+    #Repeat until user's number equals random number
+    guesses+=1
+    goal=input("Enter input:")
+  elif (float(goal)== test):
+    print("That's it! You guessed the number in", guesses,"attempts!")
+    #If their number equals random number say congrats
+    break
+
