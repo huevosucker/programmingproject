@@ -7,7 +7,7 @@
 ### SpaceGame
 OOP solution for a collision based graphics space shooter game. 
 
-![SpaceGame](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/spacegame.png?raw=true)
+![SpaceGame](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/Screen%20Shot%202022-05-23%20at%208.10.30%20AM.png)
 
 [Source Code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/SpaceGame%202.zip)
 
