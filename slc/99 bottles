@@ -1,0 +1,6 @@
+bottles = 99
+for i in range(bottles-1):
+
+  print(bottles,' bottles of root beer on the wall,',bottles, 'bottles of root beer. Take 1 down pass it around,')
+  bottles=bottles-1
+  print(bottles,'bottles of root beer on the wall.')
