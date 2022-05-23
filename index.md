@@ -21,8 +21,14 @@ OOP solution for a collision based graphics space shooter game.
 ### Snake Game
 OOP solution for a collision based graphics space shooter game. 
 ![snek game](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/Screen%20Shot%202022-05-23%20at%207.53.25%20AM.png)
+
 [source code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/txt/snake)
 
+### number guessing game
+OOP solution for a collision based graphics space shooter game.
+![number guessing game](https://github.com/huevosucker/programmingproject/blob/gh-pages/images/Screen%20Shot%202022-05-23%20at%208.16.32%20AM.png)
+
+[source code](https://github.com/huevosucker/programmingproject/blob/gh-pages/slc/number%20gussing%20ganme)
 
 
 ## Python Projects
